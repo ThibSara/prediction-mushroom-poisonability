@@ -1,0 +1,262 @@
+{
+  "cep_example": {
+    "name": [
+      "cep"
+    ],
+    "cap-shape": [
+      "x"
+    ],
+    "cap-surface": [
+      "f"
+    ],
+    "cap-color": [
+      "n"
+    ],
+    "bruises": [
+      "t"
+    ],
+    "odor": [
+      "n"
+    ],
+    "gill-spacing": [
+      "c"
+    ],
+    "gill-size": [
+      "b"
+    ],
+    "gill-color": [
+      "n"
+    ],
+    "stalk-shape": [
+      "t"
+    ],
+    "stalk-root": [
+      "b"
+    ],
+    "stalk-surface-above-ring": [
+      "s"
+    ],
+    "stalk-surface-below-ring": [
+      "s"
+    ],
+    "stalk-color-above-ring": [
+      "g"
+    ],
+    "stalk-color-below-ring": [
+      "p"
+    ],
+    "veil-color": [
+      "w"
+    ],
+    "ring-number": [
+      "o"
+    ],
+    "ring-type": [
+      "p"
+    ],
+    "spore-print-color": [
+      "n"
+    ],
+    "population": [
+      "y"
+    ],
+    "habitat": [
+      "d"
+    ]
+  },
+  "morille_example": {
+    "name": [
+      "morille"
+    ],
+    "cap-shape": [
+      "x"
+    ],
+    "cap-surface": [
+      "f"
+    ],
+    "cap-color": [
+      "y"
+    ],
+    "bruises": [
+      "t"
+    ],
+    "odor": [
+      "a"
+    ],
+    "gill-spacing": [
+      "c"
+    ],
+    "gill-size": [
+      "b"
+    ],
+    "gill-color": [
+      "n"
+    ],
+    "stalk-shape": [
+      "e"
+    ],
+    "stalk-root": [
+      "e"
+    ],
+    "stalk-surface-above-ring": [
+      "s"
+    ],
+    "stalk-surface-below-ring": [
+      "s"
+    ],
+    "stalk-color-above-ring": [
+      "n"
+    ],
+    "stalk-color-below-ring": [
+      "n"
+    ],
+    "veil-color": [
+      "w"
+    ],
+    "ring-number": [
+      "n"
+    ],
+    "ring-type": [
+      "n"
+    ],
+    "spore-print-color": [
+      "n"
+    ],
+    "population": [
+      "s"
+    ],
+    "habitat": [
+      "d"
+    ]
+  },
+  "fly_agaric_example": {
+    "name": [
+      "fly_agaric"
+    ],
+    "cap-shape": [
+      "x"
+    ],
+    "cap-surface": [
+      "f"
+    ],
+    "cap-color": [
+      "g"
+    ],
+    "bruises": [
+      "f"
+    ],
+    "odor": [
+      "f"
+    ],
+    "gill-spacing": [
+      "c"
+    ],
+    "gill-size": [
+      "b"
+    ],
+    "gill-color": [
+      "e"
+    ],
+    "stalk-shape": [
+      "e"
+    ],
+    "stalk-root": [
+      "b"
+    ],
+    "stalk-surface-above-ring": [
+      "k"
+    ],
+    "stalk-surface-below-ring": [
+      "k"
+    ],
+    "stalk-color-above-ring": [
+      "b"
+    ],
+    "stalk-color-below-ring": [
+      "b"
+    ],
+    "veil-color": [
+      "w"
+    ],
+    "ring-number": [
+      "o"
+    ],
+    "ring-type": [
+      "l"
+    ],
+    "spore-print-color": [
+      "h"
+    ],
+    "population": [
+      "v"
+    ],
+    "habitat": [
+      "d"
+    ]
+  },
+  "cudonia_example": {
+    "name": [
+      "cudonia"
+    ],
+    "cap-shape": [
+      "b"
+    ],
+    "cap-surface": [
+      "g"
+    ],
+    "cap-color": [
+      "o"
+    ],
+    "bruises": [
+      "t"
+    ],
+    "odor": [
+      "n"
+    ],
+    "gill-spacing": [
+      "c"
+    ],
+    "gill-size": [
+      "b"
+    ],
+    "gill-color": [
+      "g"
+    ],
+    "stalk-shape": [
+      "t"
+    ],
+    "stalk-root": [
+      "e"
+    ],
+    "stalk-surface-above-ring": [
+      "s"
+    ],
+    "stalk-surface-below-ring": [
+      "s"
+    ],
+    "stalk-color-above-ring": [
+      "g"
+    ],
+    "stalk-color-below-ring": [
+      "g"
+    ],
+    "veil-color": [
+      "w"
+    ],
+    "ring-number": [
+      "o"
+    ],
+    "ring-type": [
+      "p"
+    ],
+    "spore-print-color": [
+      "w"
+    ],
+    "population": [
+      "v"
+    ],
+    "habitat": [
+      "l"
+    ]
+  }
+}
