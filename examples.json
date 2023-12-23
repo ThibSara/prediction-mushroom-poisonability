@@ -1,37 +1,37 @@
 {
-  "cep_example": {
+  "morille_example": {
     "name": [
-      "cep"
+      "morille"
     ],
     "cap-shape": [
       "x"
     ],
     "cap-surface": [
-      "f"
+      "y"
     ],
     "cap-color": [
-      "n"
+      "w"
     ],
     "bruises": [
       "t"
     ],
     "odor": [
-      "n"
+      "p"
     ],
     "gill-spacing": [
       "c"
     ],
     "gill-size": [
-      "b"
+      "n"
     ],
     "gill-color": [
       "n"
     ],
     "stalk-shape": [
-      "t"
+      "e"
     ],
     "stalk-root": [
-      "b"
+      "e"
     ],
     "stalk-surface-above-ring": [
       "s"
@@ -40,10 +40,10 @@
       "s"
     ],
     "stalk-color-above-ring": [
-      "g"
+      "w"
     ],
     "stalk-color-below-ring": [
-      "p"
+      "w"
     ],
     "veil-color": [
       "w"
@@ -58,15 +58,15 @@
       "n"
     ],
     "population": [
-      "y"
+      "s"
     ],
     "habitat": [
-      "d"
-    ]
+      "u"]
   },
-  "morille_example": {
+
+  "cep_example": {
     "name": [
-      "morille"
+      "cep_example"
     ],
     "cap-shape": [
       "x"
@@ -127,6 +127,72 @@
     ],
     "habitat": [
       "d"
+    ]
+  },
+  
+  "chanterelle_example": {
+    "name": [
+      "chanterelle"
+    ],
+    "cap-shape": [
+      "b"
+    ],
+    "cap-surface": [
+      "g"
+    ],
+    "cap-color": [
+      "y"
+    ],
+    "bruises": [
+      "t"
+    ],
+    "odor": [
+      "n"
+    ],
+    "gill-spacing": [
+      "c"
+    ],
+    "gill-size": [
+      "b"
+    ],
+    "gill-color": [
+      "g"
+    ],
+    "stalk-shape": [
+      "t"
+    ],
+    "stalk-root": [
+      "e"
+    ],
+    "stalk-surface-above-ring": [
+      "s"
+    ],
+    "stalk-surface-below-ring": [
+      "s"
+    ],
+    "stalk-color-above-ring": [
+      "g"
+    ],
+    "stalk-color-below-ring": [
+      "g"
+    ],
+    "veil-color": [
+      "w"
+    ],
+    "ring-number": [
+      "o"
+    ],
+    "ring-type": [
+      "p"
+    ],
+    "spore-print-color": [
+      "w"
+    ],
+    "population": [
+      "v"
+    ],
+    "habitat": [
+      "l"
     ]
   }
 }
